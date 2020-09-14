@@ -1,0 +1,2 @@
+rootProject.name='OjolRemake'
+include ':app'

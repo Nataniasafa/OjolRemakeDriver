@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903091143391",
+    "firebase_url": "https://ojolproject.firebaseio.com",
+    "project_id": "ojolproject",
+    "storage_bucket": "ojolproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903091143391:android:c175681c5728f9a7ecdf6a",
+        "android_client_info": {
+          "package_name": "com.natania.ojolremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903091143391-88aovtiqojatm10r4b51tvs1nge5jsda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natania.ojolremake",
+            "certificate_hash": "2a697b0a16f2eb18dc40857552442b76bfb7d4b4"
+          }
+        },
+        {
+          "client_id": "903091143391-nlbmpurqjt060j6564l0ftvj5qvi7efh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYjgF-Zpq5nFQuMWJn_Ju5rsrV26jkw_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903091143391-nlbmpurqjt060j6564l0ftvj5qvi7efh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
